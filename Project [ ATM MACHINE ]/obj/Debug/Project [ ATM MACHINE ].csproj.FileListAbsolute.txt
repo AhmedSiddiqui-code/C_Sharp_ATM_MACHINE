@@ -1,0 +1,7 @@
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\bin\Debug\Project [ ATM MACHINE ].exe.config
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\bin\Debug\Project [ ATM MACHINE ].exe
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\bin\Debug\Project [ ATM MACHINE ].pdb
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\obj\Debug\Project [ ATM MACHINE ].csprojAssemblyReference.cache
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\obj\Debug\Project [ ATM MACHINE ].csproj.CoreCompileInputs.cache
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\obj\Debug\Project [ ATM MACHINE ].exe
+C:\Users\Ahmed Siddiqui\OneDrive\C#\Project [ ATM MACHINE ]\Project [ ATM MACHINE ]\obj\Debug\Project [ ATM MACHINE ].pdb
